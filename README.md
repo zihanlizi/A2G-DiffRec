@@ -1,7 +1,8 @@
 # A2G-DiffRec
 
-Official implementation of **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706)**.
----
+## Official implementation of **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706)**.
+
+
 
 ## Table of Contents
 
