@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.idea/
+*.pyc
+.python-version
+/saved_models/
+/dataset/
+/logs/
+/wandb/
+.history/
+.DS_Store
