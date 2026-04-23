@@ -1,8 +1,6 @@
 # A2G-DiffRec
 
-## Official implementation of **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706)**.
-
-
+## Implementation of **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706)** (SIGIR 2026)
 
 ## Table of Contents
 
@@ -197,6 +195,8 @@ python guided_main.py \
 ---
 
 ## Citation
+
+(to be updated)
 
 If you find this work useful, please cite:
 
