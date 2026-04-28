@@ -97,10 +97,10 @@ It also generates RecBole-format files in the same directory for use with baseli
 A2G-DiffRec is trained in two stages:
 
 
-| Stage       | Description                                                       |
-| ----------- | ----------------------------------------------------------------- |
-| **Stage 1** | Train a vanilla DiffRec base model                                |
-| **Stage 2** | Fine-tune with adaptive autoguidance for fairness (`--train_a2g`) |
+| Stage       | Description                                                   |
+| ----------- | ------------------------------------------------------------- |
+| **Stage 1** | Train a vanilla DiffRec base model                            |
+| **Stage 2** | Train with adaptive autoguidance for fairness (`--train_a2g`) |
 
 
 ### Stage 1 — Base DiffRec
